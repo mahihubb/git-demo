@@ -1,6 +1,11 @@
 This is my first code!
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is my new line code.
+=======
+Second line of code
+third line of code.
+>>>>>>> mahi
 =======
 Second line of code
 third line of code.
